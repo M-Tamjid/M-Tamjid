@@ -2,7 +2,13 @@
 #### WordPress Developer
 I'm a Professional WordPress Developer. I'm Creating Many Creative And Eye-Catching Websites. I'm Creating Many WordPress Custom Theme Project Where You Can Control Your Complete Website From The Admin Panel. And I Can Design Websites With Elementor. I Specialized In Creating Innovative And Eye-Catching Websites With WordPress, HTML, CSS, BOOTSTRAP, JAVASCRIPT, And JQuery.
 
-Skills: JS / HTML / CSS/PHP
+## 👨‍💻 Skills : 
+✔ WordPress <br>
+✔ javascript <br>
+✔ HTML5 / CSS3 / Bootstrap
+ <br>
+✔ PHP
+ <br>
 
 - 🌱 I’m currently learning JAVASCRIPT 
 
